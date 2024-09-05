@@ -1,2 +1,2 @@
 # workshop-scala
-for lessons 
+for lessons )
